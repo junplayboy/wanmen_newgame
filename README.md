@@ -1,0 +1,1 @@
+Test wanmen_newgame
